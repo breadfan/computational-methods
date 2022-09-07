@@ -1,0 +1,4 @@
+"E:\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\C++ projects\comp methods\stiff systems" -B "D:\C++ projects\comp methods\stiff systems\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/C++ projects/comp methods/stiff systems/cmake-build-debug
